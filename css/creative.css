@@ -233,6 +233,9 @@ header .header-content .header-content-inner p {
   font-weight: bold;
   font-size: 1.2em;
 }
+.email-contact > p {
+  padding-top: 10px;
+}
 .portfolio-box {
   position: relative;
   display: block;
