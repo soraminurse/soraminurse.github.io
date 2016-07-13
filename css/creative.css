@@ -229,6 +229,10 @@ header .header-content .header-content-inner p {
 .service-box p {
   margin-bottom: 0;
 }
+.phone-contact h1 {
+  font-weight: bold;
+  font-size: 1.2em;
+}
 .portfolio-box {
   position: relative;
   display: block;
